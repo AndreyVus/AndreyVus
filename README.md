@@ -1,7 +1,5 @@
 Hi, I’m @AndreyVus
-I’m interested in Web, JS, Haskel,..
-I’m currently learning Angular,..
-
+I’m interested in Web, Kotlin,..
 
 <!---
 AndreyVus/AndreyVus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
