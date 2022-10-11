@@ -1,5 +1,5 @@
 Hi, I’m @AndreyVus
-I am interested in Internet Technology...
+and interested in Internet Technology...
 
 <!---
 AndreyVus/AndreyVus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
